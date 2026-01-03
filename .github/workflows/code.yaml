@@ -1,0 +1,22 @@
+name: Code
+
+on: [push]
+
+jobs:
+  pass:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install deps
+        run: brew install llvm
+
+      - name: Add LLVM to PATH
+        run: echo "$(brew --prefix llvm)/bin" >> $GITHUB_PATH
+
+      - name: Format check the code
+        run: make format-check
+
+      - name: Build and run the executables
+        run: make run

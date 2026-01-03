@@ -2,4 +2,4 @@
 authors = ["Andras Gemes"]
 language = "en"
 src = "src"
-title = "C++ features"
+title = "Modern C++ features"

@@ -9,3 +9,4 @@
 - [Rvalue references](./c++11/rvalue-references.md)
 - [Forwarding references](./c++11/forwarding-references.md)
 - [Variadic templates](./c++11/variadic-templates.md)
+- [Initializer lists](./c++11/initializer-lists.md)

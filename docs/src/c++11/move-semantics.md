@@ -4,7 +4,7 @@
 
 Efficiently transfer ownership of large binary buffers when parsing Mach-O segments.
 
-The source code is available [here](https://github.com/gemesa/cpp-features/src/c%2B%2B11/move-semantics.cpp).
+The source code is available [here](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/move-semantics.cpp).
 
 ## Explanation
 

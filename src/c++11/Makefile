@@ -1,24 +1,28 @@
 CXX := clang++
 CXXFLAGS := -std=c++11 -Wall
+BUILD_DIR := build
 
 SRCS := $(wildcard *.cpp)
-BINS := $(SRCS:.cpp=)
+BINS := $(addprefix $(BUILD_DIR)/,$(SRCS:.cpp=))
 
 .PHONY: all clean run format format-check
 
 all: $(BINS)
 
-%: %.cpp
+$(BUILD_DIR)/%: %.cpp | $(BUILD_DIR)
 	$(CXX) $(CXXFLAGS) $< -o $@
+
+$(BUILD_DIR):
+	mkdir -p $(BUILD_DIR)
 
 run: $(BINS)
 	@for bin in $(BINS); do \
-		echo "--- Running $$bin. ---"; \
+		echo "=== Running $$bin ==="; \
 		./$$bin; \
 	done
 
 clean:
-	rm -f $(BINS)
+	rm -rf $(BUILD_DIR)
 
 format:
 	clang-format -i $(SRCS)

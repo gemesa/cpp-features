@@ -15,3 +15,15 @@ When analyzing large binaries, we do not want to copy megabytes of data. Move se
 ```
 
 [View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/move-semantics.cpp).
+
+## Output
+
+```
+$ ./src/c++11/build/move-semantics 
+Loading segment.
+Constructed segment: __TEXT (1048576 bytes).
+Transferring to analyzer.
+Moved segment.
+Original segment name: 
+Analyzer segment name: __TEXT
+```

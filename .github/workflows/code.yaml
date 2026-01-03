@@ -3,7 +3,7 @@ name: Code
 on: [push]
 
 jobs:
-  pass:
+  check-format-and-build:
     runs-on: macos-latest
     steps:
       - name: Checkout

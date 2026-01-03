@@ -5,6 +5,7 @@
 Efficiently transfer ownership of large binary buffers when parsing Mach-O segments.
 
 ## Code
+
 ```cpp
 {{#include ../../../src/c++11/move-semantics.cpp}}
 ```

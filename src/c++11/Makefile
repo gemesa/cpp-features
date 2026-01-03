@@ -1,5 +1,5 @@
 CXX := clang++
-CXXFLAGS := -std=c++11 -Wall
+CXXFLAGS := -std=c++11 -Wall -I.
 BUILD_DIR := build
 
 SRCS := $(wildcard *.cpp)

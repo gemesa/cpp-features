@@ -6,3 +6,4 @@
 # C++11
 
 - [Move semantics](./c++11/move-semantics.md)
+- [Rvalue references](./c++11/rvalue-references.md)

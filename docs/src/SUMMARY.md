@@ -21,3 +21,4 @@
 - [`constexpr`](./c++11/constexpr.md)
 - [Delegating constructors](./c++11/delegating-constructors.md)
 - [User-defined literals](./c++11/user-defined-literals.md)
+- [Explicit virtual overrides](./c++11/explicit-virtual-overrides.md)

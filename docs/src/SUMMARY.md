@@ -14,3 +14,4 @@
 - [`auto`](./c++11/auto.md)
 - [Lambda expressions](./c++11/lambda-expressions.md)
 - [`decltype`](./c++11/decltype.md)
+- [Type aliases](./c++11/type-aliases.md)

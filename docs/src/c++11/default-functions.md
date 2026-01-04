@@ -2,11 +2,11 @@
 
 ## Use case
 
-Explicitly request compiler-generated special member functions (constructors, assignment operators and destructors).
+Explicitly request compiler-generated special member functions (constructors, assignment operators and destructors). We implement a custom destructor for logging. According to the [rule of 5](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c21-if-you-define-or-delete-any-copy-move-or-destructor-function-define-or-delete-them-all), we implement all.
 
 ## Explanation
 
-`= default` tells the compiler to generate the default implementation. Useful when we have a custom constructor but still want the default one.
+The destructor is only for logging but defining it suppresses move generation. `= default` request all operations back. Since `std::vector` handles deep copy and move correctly, default operations are fine.
 
 ## Code
 
@@ -20,7 +20,8 @@ Explicitly request compiler-generated special member functions (constructors, as
 
 ```
 $ ./src/c++11/build/default-functions
-a.addr: 0x1000
-b.addr: 0x1000
-c.addr: 0x1000
+a: 0, b: 2, c:2
+Cleanup: 2 instructions.
+Cleanup: 2 instructions.
+Cleanup: 0 instructions.
 ```

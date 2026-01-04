@@ -1,31 +1,40 @@
 #include <iostream>
+#include <string>
+#include <vector>
 
-struct Section {
-  uint64_t addr;
-  uint64_t size;
+class DisassemblyResult {
+  std::vector<std::string> instructions;
 
-  Section() = default;
-  Section(uint64_t a, uint64_t s) : addr(a), size(s) {}
+public:
+  DisassemblyResult() = default;
+
+  ~DisassemblyResult() {
+    std::cout << "Cleanup: " << instructions.size() << " instructions.\n";
+  }
 
   // Copy constructor.
-  Section(const Section &) = default;
+  DisassemblyResult(const DisassemblyResult &) = default;
   // Copy assignment.
-  Section &operator=(const Section &) = default;
+  DisassemblyResult &operator=(const DisassemblyResult &) = default;
+  // Move constructor.
+  DisassemblyResult(DisassemblyResult &&) = default;
+  // Move assignment.
+  DisassemblyResult &operator=(DisassemblyResult &&) = default;
+
+  void add(const std::string &s) { instructions.push_back(s); }
+  size_t count() const { return instructions.size(); }
 };
 
 int main() {
-  // Default constructor.
-  Section a;
-  // Custom constructor.
-  Section b(0x1000, 0x100);
-  // Copy constructor.
-  Section c = b;
-  // Copy assignment.
-  a = b;
+  DisassemblyResult a;
+  a.add("stp x29, x30, [sp, #-16]!");
+  a.add("mov x29, sp");
 
-  std::cout << "a.addr: 0x" << std::hex << a.addr << "\n";
-  std::cout << "b.addr: 0x" << std::hex << b.addr << "\n";
-  std::cout << "c.addr: 0x" << std::hex << c.addr << "\n";
+  DisassemblyResult b = a;
+  DisassemblyResult c = std::move(a);
+
+  std::cout << "a: " << a.count() << ", b: " << b.count() << ", c:" << c.count()
+            << "\n";
 
   return 0;
 }

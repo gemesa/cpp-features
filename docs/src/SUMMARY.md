@@ -11,3 +11,4 @@
 - [Variadic templates](./c++11/variadic-templates.md)
 - [Initializer lists](./c++11/initializer-lists.md)
 - [Static assertions](./c++11/static-assertions.md)
+- [Auto](./c++11/auto.md)

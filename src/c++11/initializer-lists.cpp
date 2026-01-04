@@ -23,6 +23,9 @@ void checkSuspiciousImports(std::initializer_list<ImportPattern> patterns) {
 }
 
 int main() {
+  // Outer: std::initializer_list<ImportPattern>
+  // Middle: constructor call via braces
+  // Inner: std::initializer_list<std::string>
   checkSuspiciousImports({{"libSystem.B.dylib", {"ptrace", "sysctl"}}});
   return 0;
 }

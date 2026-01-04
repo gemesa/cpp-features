@@ -16,3 +16,4 @@
 - [`decltype`](./c++11/decltype.md)
 - [Type aliases](./c++11/type-aliases.md)
 - [`nullptr`](./c++11/nullptr.md)
+- [Strongly-typed enums](./c++11/strongly-typed-enums.md)

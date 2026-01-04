@@ -24,3 +24,4 @@
 - [Explicit virtual overrides](./c++11/explicit-virtual-overrides.md)
 - [Final specifier](./c++11/final-specifier.md)
 - [Default functions](./c++11/default-functions.md)
+- [Deleted functions](./c++11/deleted-functions.md)

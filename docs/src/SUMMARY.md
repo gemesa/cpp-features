@@ -22,3 +22,4 @@
 - [Delegating constructors](./c++11/delegating-constructors.md)
 - [User-defined literals](./c++11/user-defined-literals.md)
 - [Explicit virtual overrides](./c++11/explicit-virtual-overrides.md)
+- [Final specifier](./c++11/final-specifier.md)

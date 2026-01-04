@@ -19,7 +19,7 @@ When analyzing large binaries, we do not want to copy megabytes of data. Move se
 ## Output
 
 ```
-$ ./src/c++11/build/move-semantics 
+$ ./src/c++11/build/move-semantics
 Loading segment.
 Constructed segment: __TEXT (1048576 bytes).
 Transferring to analyzer.

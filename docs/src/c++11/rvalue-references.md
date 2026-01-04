@@ -19,7 +19,7 @@ The key line is `cache_ = std::move(instrs)`. Inside the function, `instrs` is a
 ## Output
 
 ```
-$ ./src/c++11/build/rvalue-references 
+$ ./src/c++11/build/rvalue-references
 Move assignment.
 Cached 1 instructions.
 Move assignment.

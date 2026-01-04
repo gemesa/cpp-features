@@ -2,11 +2,11 @@
 
 ## Use case
 
-Explicitly request compiler-generated special member functions (constructors, assignment operators and destructors). We implement a custom destructor for logging. According to the [rule of 5](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c21-if-you-define-or-delete-any-copy-move-or-destructor-function-define-or-delete-them-all), we implement all.
+Explicitly request compiler-generated special member functions (constructors, assignment operators and destructors). We implement a custom destructor for logging.
 
 ## Explanation
 
-The destructor is only for logging but defining it suppresses move generation. `= default` request all operations back. Since `std::vector` handles deep copy and move correctly, default operations are fine.
+The destructor is only for logging but defining it suppresses move generation. `= default` request all operations back. Since `std::vector` handles deep copy and move correctly, default operations are fine. According to the [rule of 5](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c21-if-you-define-or-delete-any-copy-move-or-destructor-function-define-or-delete-them-all), we implement all.
 
 ## Code
 

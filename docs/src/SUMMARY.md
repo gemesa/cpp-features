@@ -18,3 +18,4 @@
 - [`nullptr`](./c++11/nullptr.md)
 - [Strongly-typed enums](./c++11/strongly-typed-enums.md)
 - [Attributes](./c++11/attributes.md)
+- [`constexpr`](./c++11/constexpr.md)

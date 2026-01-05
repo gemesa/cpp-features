@@ -26,3 +26,4 @@
 - [Default functions](./c++11/default-functions.md)
 - [Deleted functions](./c++11/deleted-functions.md)
 - [Range-based for loops](./c++11/range-based-for-loops.md)
+- [Special member functions for move semantics](./c++11/special-member-functions-for-move-semantics.md)

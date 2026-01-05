@@ -35,3 +35,4 @@
 - [Ref-qualified member functions](./c++11/ref-qualified-member-functions.md)
 - [Trailing return types](./c++11/trailing-return-types.md)
 - [`noexcept`](./c++11/noexcept.md)
+- [`char32_t` and `char16_t`](./c++11/char32_t-and-char16_t.md)

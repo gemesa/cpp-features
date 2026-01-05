@@ -44,3 +44,4 @@
 
 - [`std::move`](./c++11/std-move.md)
 - [`std::forward`](./c++11/std-forward.md)
+- [`std::thread`](./c++11/std-thread.md)

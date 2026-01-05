@@ -36,3 +36,4 @@
 - [Trailing return types](./c++11/trailing-return-types.md)
 - [`noexcept`](./c++11/noexcept.md)
 - [`char32_t` and `char16_t`](./c++11/char32_t-and-char16_t.md)
+- [Raw string literals](./c++11/raw-string-literals.md)

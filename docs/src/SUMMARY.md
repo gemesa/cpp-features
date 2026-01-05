@@ -29,3 +29,4 @@
 - [Special member functions for move semantics](./c++11/special-member-functions-for-move-semantics.md)
 - [Converting constructors](./c++11/converting-constructors.md)
 - [Explicit conversion functions](./c++11/explicit-conversion-functions.md)
+- [Inline namespaces](./c++11/inline-namespaces.md)

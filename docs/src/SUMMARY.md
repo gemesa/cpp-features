@@ -46,3 +46,4 @@
 - [`std::forward`](./c++11/std-forward.md)
 - [`std::thread`](./c++11/std-thread.md)
 - [`std::to_string`](./c++11/std-to_string.md)
+- [Type traits](./c++11/type-traits.md)

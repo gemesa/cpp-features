@@ -33,3 +33,4 @@
 - [Non-static data member initializers](./c++11/non-static-data-member-initializers.md)
 - [Right angle brackets](./c++11/right-angle-brackets.md)
 - [Ref-qualified member functions](./c++11/ref-qualified-member-functions.md)
+- [Trailing return types](./c++11/trailing-return-types.md)

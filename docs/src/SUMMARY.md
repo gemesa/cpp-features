@@ -30,3 +30,4 @@
 - [Converting constructors](./c++11/converting-constructors.md)
 - [Explicit conversion functions](./c++11/explicit-conversion-functions.md)
 - [Inline namespaces](./c++11/inline-namespaces.md)
+- [Non-static data member initializers](./c++11/non-static-data-member-initializers.md)

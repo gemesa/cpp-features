@@ -1,5 +1,6 @@
 // https://stackoverflow.com/questions/12084040/what-is-the-difference-between-decltype-and-auto-as-a-placeholder-type-for-varia
 
+#include <cstdint>
 #include <iostream>
 
 struct MachO32 {

@@ -1,3 +1,4 @@
+#include <cstdint>
 #include <iostream>
 
 // https://stackoverflow.com/questions/21092415/force-c-structure-to-pack-tightly

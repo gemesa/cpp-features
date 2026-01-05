@@ -1,3 +1,4 @@
+#include <cstdint>
 #include <iostream>
 
 void analyze(uint64_t addr) {

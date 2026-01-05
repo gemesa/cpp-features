@@ -1,4 +1,5 @@
 #include <iostream>
+#include <memory>
 
 class CodeBuffer {
   std::unique_ptr<uint8_t[]> data;

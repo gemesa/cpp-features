@@ -1,3 +1,4 @@
+#include <cstdint>
 #include <iostream>
 
 constexpr size_t ARM64_INST_SIZE = 4;

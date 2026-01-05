@@ -1,3 +1,4 @@
+#include <cstdint>
 #include <iostream>
 
 void readMemory(uint64_t addr) {

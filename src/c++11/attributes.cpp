@@ -1,3 +1,4 @@
+#include <cstdint>
 #include <iostream>
 
 [[noreturn]] void throwError(const char *msg) { throw std::runtime_error(msg); }

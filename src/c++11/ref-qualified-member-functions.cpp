@@ -5,7 +5,7 @@ class Buffer {
   std::vector<int> data_ = {1, 2, 3};
 
 public:
-  // rvalue.
+  // lvalue.
   const std::vector<int> &data() const & {
     std::cout << "lvalue: returning ref.\n";
     return data_;

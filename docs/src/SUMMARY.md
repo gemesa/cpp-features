@@ -5,7 +5,7 @@
 
 # C++11
 
-## Language features
+# Language features
 
 - [Move semantics](./c++11/move-semantics.md)
 - [Rvalue references](./c++11/rvalue-references.md)

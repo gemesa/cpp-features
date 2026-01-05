@@ -49,3 +49,4 @@
 - [Type traits](./c++11/type-traits.md)
 - [Smart pointers](./c++11/smart-pointers.md)
 - [`std::chrono`](./c++11/std-chrono.md)
+- [Tuples](./c++11/tuples.md)

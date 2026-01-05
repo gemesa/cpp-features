@@ -51,3 +51,4 @@
 - [`std::chrono`](./c++11/std-chrono.md)
 - [Tuples](./c++11/tuples.md)
 - [`std::tie`](./c++11/std-tie.md)
+- [`std::array`](./c++11/std-array.md)

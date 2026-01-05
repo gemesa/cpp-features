@@ -4,16 +4,25 @@ on: [push]
 
 jobs:
   check-format-and-build:
-    runs-on: macos-latest
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [macos-latest, ubuntu-latest]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install deps
+      - name: Install deps (macOS)
+        if: matrix.os == 'macos-latest'
         run: brew install llvm
 
-      - name: Add LLVM to PATH
+      - name: Add LLVM to PATH (macOS)
+        if: matrix.os == 'macos-latest'
         run: echo "$(brew --prefix llvm)/bin" >> $GITHUB_PATH
+
+      - name: Install deps (Ubuntu)
+        if: matrix.os == 'ubuntu-latest'
+        run: sudo apt-get update && sudo apt-get install -y clang clang-format
 
       - name: Format check the code
         run: make format-check

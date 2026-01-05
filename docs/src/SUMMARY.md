@@ -53,3 +53,4 @@
 - [`std::tie`](./c++11/std-tie.md)
 - [`std::array`](./c++11/std-array.md)
 - [Unordered containers](./c++11/unordered-containers.md)
+- [`std::make_shared`](./c++11/std-make_shared.md)

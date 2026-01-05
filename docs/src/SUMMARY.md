@@ -56,3 +56,4 @@
 - [`std::make_shared`](./c++11/std-make_shared.md)
 - [`std::ref`](./c++11/std-ref.md)
 - [`std::async`](./c++11/std-async.md)
+- [`std::begin`/`std::end`](./c++11/std-begin-end.md)

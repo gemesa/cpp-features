@@ -39,3 +39,7 @@
 - [`noexcept`](./c++11/noexcept.md)
 - [`char32_t` and `char16_t`](./c++11/char32_t-and-char16_t.md)
 - [Raw string literals](./c++11/raw-string-literals.md)
+
+# Library features
+
+- [`std::move`](./c++11/std-move.md)

@@ -19,11 +19,8 @@ int main() {
 
   // more than one instance of overloaded function "analyze" matches the
   // argument list
-  //
   // function "analyze(uint64_t addr)"
-  //
   // function "analyze(const char *symbol)"
-  //
   // analyze(NULL);
   analyze(nullptr);
 

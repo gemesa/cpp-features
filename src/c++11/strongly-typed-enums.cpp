@@ -14,8 +14,8 @@ int main() {
   FileType ft = FileType::Executable;
   // CPUType cpu = CPUType::ARM64;
 
-  // a value of type "FileType" cannot be used to initialize an entity of type
-  // "int" int y = ft;
+  // a value of type "FileType" cannot be used to initialize an entity of type "int"
+  // int y = ft;
   // no operator "==" matches these operands
   // if (ft == cpu) {}
   // no operator "==" matches these operands

@@ -37,7 +37,8 @@ public:
 int main() {
   CodeBuffer a(1024);
   // function "CodeBuffer::CodeBuffer(const CodeBuffer &)" cannot be referenced
-  // -- it is a deleted function CodeBuffer b = a;
+  // -- it is a deleted function
+  // CodeBuffer b = a;
   CodeBuffer b = std::move(a);
   return 0;
 }

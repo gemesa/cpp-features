@@ -43,3 +43,4 @@
 # Library features
 
 - [`std::move`](./c++11/std-move.md)
+- [`std::forward`](./c++11/std-forward.md)

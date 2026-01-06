@@ -67,3 +67,4 @@
 - [Lambda capture initializers](./c++14/lambda-capture-initializers.md)
 - [Return type deduction](./c++14/return-type-deduction.md)
 - [`decltype(auto)`](./c++14/decltype-auto.md)
+- [Relaxing constraints on constexpr functions](./c++14/relaxing-constraints-on-constexpr-functions.md)

@@ -108,3 +108,4 @@
 # Library features
 
 - [`std::span`](./c++20/std-span.md)
+- [`std::format`](./c++20/std-format.md)

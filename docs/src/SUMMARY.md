@@ -101,3 +101,4 @@
 
 - [Concepts](./c++20/concepts.md)
 - [`requires` clause](./c++20/requires-clause.md)
+- [Three-way comparison (spaceship operator)](./c++20/three-way-comparison.md)

@@ -65,3 +65,4 @@
 - [Binary literals](./c++14/binary-literals.md)
 - [Generic lambda expressions](./c++14/generic-lambda-expressions.md)
 - [Lambda capture initializers](./c++14/lambda-capture-initializers.md)
+- [Return type deduction](./c++14/return-type-deduction.md)

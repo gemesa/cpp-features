@@ -6,7 +6,7 @@ Variadic logging or combining flags.
 
 ## Explanation
 
-Fold expressions expand parameter packs over an operator. Unary fold has one operator (`(pack | ...)`). Binary fold has two operators plus an init value (`(init << .., << pack)`).
+Fold expressions expand parameter packs over an operator. Unary fold has one operator (`(pack | ...)`). Binary fold has two operators plus an init value (`(init << ... << pack)`).
 
 ## Code
 

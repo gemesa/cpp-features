@@ -12,7 +12,7 @@ Generic filtering for any container type.
 ## Code
 
 ```cpp
-{{#include ../../../src/c++11/generic-lambda-expressions.cpp}}
+{{#include ../../../src/c++14/generic-lambda-expressions.cpp}}
 ```
 
 [View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/generic-lambda-expressions.cpp).

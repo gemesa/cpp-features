@@ -1,7 +1,8 @@
 SUBDIRS := \
 src/c++11 \
 src/c++14 \
-src/c++17
+src/c++17 \
+src/c++20
 
 .PHONY: all clean run format format-check $(SUBDIRS)
 

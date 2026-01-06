@@ -82,3 +82,4 @@
 # Language features
 
 - [Template argument deduction for class templates](./c++17/template-argument-deduction-for-class-templates.md)
+- [Folding expressions](./c++17/folding-expressions.md)

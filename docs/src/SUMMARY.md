@@ -69,3 +69,4 @@
 - [`decltype(auto)`](./c++14/decltype-auto.md)
 - [Relaxing constraints on constexpr functions](./c++14/relaxing-constraints-on-constexpr-functions.md)
 - [Variable templates](./c++14/variable-templates.md)
+- [`[[deprecated]]` attribute](./c++14/deprecated-attribute.md)

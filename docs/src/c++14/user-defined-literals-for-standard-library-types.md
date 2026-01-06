@@ -14,7 +14,7 @@ Some standard library literals: `h`, `s`, `ms`, `us`. Requires `using namespace 
 {{#include ../../../src/c++14/user-defined-literals-for-standard-library-types.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/user-defined-literals-for-standard-library-types.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B14/user-defined-literals-for-standard-library-types.cpp).
 
 ## Output
 

@@ -15,7 +15,7 @@ Generic filtering for any container type.
 {{#include ../../../src/c++14/generic-lambda-expressions.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/generic-lambda-expressions.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B14/generic-lambda-expressions.cpp).
 
 ## Output
 

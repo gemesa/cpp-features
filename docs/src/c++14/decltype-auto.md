@@ -14,7 +14,7 @@ Perfect forwarding of return types in wrappers.
 {{#include ../../../src/c++14/decltype-auto.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/decltype-auto.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B14/decltype-auto.cpp).
 
 ## Output
 

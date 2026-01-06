@@ -14,7 +14,7 @@ Fold expressions expand parameter packs over an operator. Unary fold has one ope
 {{#include ../../../src/c++17/folding-expressions.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/folding-expressions.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B17/folding-expressions.cpp).
 
 ## Output
 

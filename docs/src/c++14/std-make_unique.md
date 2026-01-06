@@ -14,7 +14,7 @@ Safe creation of `unique_ptr` for parsed structures.
 {{#include ../../../src/c++14/std-make_unique.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/std-make_unique.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B14/std-make_unique.cpp).
 
 ## Output
 

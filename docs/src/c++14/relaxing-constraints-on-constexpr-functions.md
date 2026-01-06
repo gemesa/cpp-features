@@ -14,7 +14,7 @@ Compile-time instruction decoding with loops and conditionals.
 {{#include ../../../src/c++14/relaxing-constraints-on-constexpr-functions.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/relaxing-constraints-on-constexpr-functions.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B14/relaxing-constraints-on-constexpr-functions.cpp).
 
 ## Output
 

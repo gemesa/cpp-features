@@ -14,7 +14,7 @@ Simplify template functions that return complex types.
 {{#include ../../../src/c++14/return-type-deduction.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/return-type-deduction.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B14/return-type-deduction.cpp).
 
 ## Output
 

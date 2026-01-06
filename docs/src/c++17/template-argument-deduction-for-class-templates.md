@@ -14,7 +14,7 @@ Class template arguments can now be deduced from constructor arguments, similarl
 {{#include ../../../src/c++17/template-argument-deduction-for-class-templates.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/template-argument-deduction-for-class-templates.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B17/template-argument-deduction-for-class-templates.cpp).
 
 ## Output
 

@@ -14,7 +14,7 @@ Move `unique_ptr` into a lambda for async analysis.
 {{#include ../../../src/c++14/lambda-capture-initializers.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/lambda-capture-initializers.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B14/lambda-capture-initializers.cpp).
 
 ## Output
 

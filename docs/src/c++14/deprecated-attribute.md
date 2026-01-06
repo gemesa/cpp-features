@@ -14,7 +14,7 @@ Mark old analysis APIs for removal.
 {{#include ../../../src/c++14/deprecated-attribute.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/deprecated-attribute.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B14/deprecated-attribute.cpp).
 
 ## Output
 

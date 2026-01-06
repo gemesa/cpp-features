@@ -14,7 +14,7 @@ Unpack tuple of segment info into function arguments.
 {{#include ../../../src/c++14/compile-time-integer-sequences.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/compile-time-integer-sequences.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B14/compile-time-integer-sequences.cpp).
 
 ## Output
 

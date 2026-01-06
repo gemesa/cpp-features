@@ -14,7 +14,7 @@ Variable templates allow templated constants. Cleaner than `static` class member
 {{#include ../../../src/c++14/variable-templates.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/variable-templates.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B14/variable-templates.cpp).
 
 ## Output
 

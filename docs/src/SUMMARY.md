@@ -92,3 +92,4 @@
 # Library features
 
 - [`std::variant`](./c++17/std-variant.md)
+- [`std::optional`](./c++17/std-optional.md)

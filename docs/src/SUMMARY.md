@@ -81,3 +81,4 @@
 
 # Language features
 
+- [Template argument deduction for class templates](./c++17/template-argument-deduction-for-class-templates.md)

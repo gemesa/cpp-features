@@ -86,3 +86,4 @@
 - [`constexpr` lambda](./c++17/constexpr-lambda.md)
 - [`inline` variables](./c++17/inline-variables.md)
 - [Structured bindings](./c++17/structured-bindings.md)
+- [`constexpr if`](./c++17/constexpr-if.md)

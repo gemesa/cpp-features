@@ -66,3 +66,4 @@
 - [Generic lambda expressions](./c++14/generic-lambda-expressions.md)
 - [Lambda capture initializers](./c++14/lambda-capture-initializers.md)
 - [Return type deduction](./c++14/return-type-deduction.md)
+- [`decltype(auto)`](./c++14/decltype-auto.md)

@@ -19,6 +19,6 @@ Binary literals (`0b...`) make bit patterns readable. `'` can be used as a separ
 ## Output
 
 ```
-$ ./src/c++11/build/binary-literals
+$ ./src/c++14/build/binary-literals
 Is BL: true
 ```

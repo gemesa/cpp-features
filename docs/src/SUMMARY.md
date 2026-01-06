@@ -63,3 +63,4 @@
 # Language features
 
 - [Binary literals](./c++14/binary-literals.md)
+- [Generic lambda expressions](./c++14/generic-lambda-expressions.md)

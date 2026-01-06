@@ -16,8 +16,8 @@ template <typename... Flags> constexpr auto combineFlags(Flags... flags) {
 int main() {
   log("Entry: 0x", std::hex, 0x10001000);
 
-  // https://github.com/apple-oss-distributions/xnu/blob/main/EXTERNAL_HEADERS/mach-o/loader.h#L145
-  // https://github.com/apple-oss-distributions/xnu/blob/main/EXTERNAL_HEADERS/mach-o/loader.h#L190
+  // https://github.com/apple-oss-distributions/xnu/blob/f6217f891ac0bb64f3d375211650a4c1ff8ca1ea/EXTERNAL_HEADERS/mach-o/loader.h#L145
+  // https://github.com/apple-oss-distributions/xnu/blob/f6217f891ac0bb64f3d375211650a4c1ff8ca1ea/EXTERNAL_HEADERS/mach-o/loader.h#L190
   constexpr uint32_t MH_PIE = 0x20000;
   constexpr uint32_t MH_TWOLEVEL = 0x80;
   constexpr auto flags = combineFlags(MH_PIE, MH_TWOLEVEL);

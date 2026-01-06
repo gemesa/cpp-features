@@ -75,3 +75,4 @@
 
 - [User-defined literals for standard library types](./c++14/user-defined-literals-for-standard-library-types.md)
 - [Compile-time integer sequences](./c++14/compile-time-integer-sequences.md)
+- [`std::make_unique`](./c++14/std-make_unique.md)

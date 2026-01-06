@@ -1,5 +1,6 @@
 #include <iostream>
 #include <optional>
+#include <cstdint>
 
 std::optional<uint64_t> findSymbol(const char *name) {
   if (name[0] == '_') {

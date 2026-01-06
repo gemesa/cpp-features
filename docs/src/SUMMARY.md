@@ -84,3 +84,4 @@
 - [Template argument deduction for class templates](./c++17/template-argument-deduction-for-class-templates.md)
 - [Folding expressions](./c++17/folding-expressions.md)
 - [`constexpr` lambda](./c++17/constexpr-lambda.md)
+- [`inline` variables](./c++17/inline-variables.md)

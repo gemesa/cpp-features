@@ -88,3 +88,7 @@
 - [Structured bindings](./c++17/structured-bindings.md)
 - [`constexpr if`](./c++17/constexpr-if.md)
 - [Class template argument deduction](./c++17/class-template-argument-deduction.md)
+
+# Library features
+
+- [`std::variant`](./c++17/std-variant.md)

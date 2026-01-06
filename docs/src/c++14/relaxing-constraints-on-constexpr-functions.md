@@ -11,14 +11,14 @@ Compile-time instruction decoding with loops and conditionals.
 ## Code
 
 ```cpp
-{{#include ../../../src/c++14/decltype-auto.cpp}}
+{{#include ../../../src/c++14/relaxing-constraints-on-constexpr-functions.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/decltype-auto.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B11/relaxing-constraints-on-constexpr-functions.cpp).
 
 ## Output
 
 ```
-$ ./src/c++14/build/decltype-auto
+$ ./src/c++14/build/relaxing-constraints-on-constexpr-functions
 Rd: fp
 ```

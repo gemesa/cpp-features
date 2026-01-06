@@ -104,3 +104,7 @@
 - [Three-way comparison (spaceship operator)](./c++20/three-way-comparison.md)
 - [`consteval` (immediate functions)](./c++20/consteval.md)
 - [`constinit`](./c++20/constinit.md)
+
+# Library features
+
+- [`std::span`](./c++20/std-span.md)

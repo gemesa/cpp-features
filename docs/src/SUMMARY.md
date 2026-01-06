@@ -103,3 +103,4 @@
 - [`requires` clause](./c++20/requires-clause.md)
 - [Three-way comparison (spaceship operator)](./c++20/three-way-comparison.md)
 - [`consteval` (immediate functions)](./c++20/consteval.md)
+- [`constinit`](./c++20/constinit.md)

@@ -87,3 +87,4 @@
 - [`inline` variables](./c++17/inline-variables.md)
 - [Structured bindings](./c++17/structured-bindings.md)
 - [`constexpr if`](./c++17/constexpr-if.md)
+- [Class template argument deduction](./c++17/class-template-argument-deduction.md)

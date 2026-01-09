@@ -90,6 +90,7 @@
 - [`inline` variables](./c++17/inline-variables.md)
 - [Nested namespaces](./c++17/nested-namespaces.md)
 - [Structured bindings](./c++17/structured-bindings.md)
+- [Selection statements with initializer](./c++17/selection-statements-with-initializer.md)
 - [`constexpr if`](./c++17/constexpr-if.md)
 - [Class template argument deduction](./c++17/class-template-argument-deduction.md)
 

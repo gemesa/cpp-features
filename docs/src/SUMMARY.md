@@ -88,6 +88,7 @@
 - [`constexpr` lambda](./c++17/constexpr-lambda.md)
 - [Lambda capture `this` by value](./c++17/lambda-capture-this-by-value.md)
 - [`inline` variables](./c++17/inline-variables.md)
+- [Nested namespaces](./c++17/nested-namespaces.md)
 - [Structured bindings](./c++17/structured-bindings.md)
 - [`constexpr if`](./c++17/constexpr-if.md)
 - [Class template argument deduction](./c++17/class-template-argument-deduction.md)

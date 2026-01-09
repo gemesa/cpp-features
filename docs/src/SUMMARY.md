@@ -92,6 +92,7 @@
 - [Structured bindings](./c++17/structured-bindings.md)
 - [Selection statements with initializer](./c++17/selection-statements-with-initializer.md)
 - [`constexpr if`](./c++17/constexpr-if.md)
+- [UTF-8 character literals](./c++17/utf-8-character-literals.md)
 - [Class template argument deduction](./c++17/class-template-argument-deduction.md)
 
 # Library features

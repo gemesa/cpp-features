@@ -84,6 +84,7 @@
 - [Template argument deduction for class templates](./c++17/template-argument-deduction-for-class-templates.md)
 - [Non-type template parameters with auto](./c++17/non-type-template-parameters-with-auto.md)
 - [Folding expressions](./c++17/folding-expressions.md)
+- [New rules for auto deduction from braced-init-list](./c++17/new-rules-for-auto-deduction-from-braced-init-list.md)
 - [`constexpr` lambda](./c++17/constexpr-lambda.md)
 - [`inline` variables](./c++17/inline-variables.md)
 - [Structured bindings](./c++17/structured-bindings.md)

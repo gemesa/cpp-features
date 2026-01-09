@@ -14,7 +14,7 @@ Explicit UTF-8 encoding.
 {{#include ../../../src/c++17/utf-8-character-literals.cpp}}
 ```
 
-[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B17/.cpp).
+[View on GitHub](https://github.com/gemesa/cpp-features/blob/main/src/c%2B%2B17/utf-8-character-literals.cpp).
 
 ## Output
 

@@ -95,6 +95,7 @@
 - [UTF-8 character literals](./c++17/utf-8-character-literals.md)
 - [Direct-list-initialization of enums](./c++17/direct-list-initialization-of-enums.md)
 - [`[[fallthrough]]`, `[[nodiscard]]`, `[[maybe_unused]]` attributes](./c++17/fallthrough-nodiscard-maybe_unused.md)
+- [`__has_include`](./c++17/has-include.md)
 - [Class template argument deduction](./c++17/class-template-argument-deduction.md)
 
 # Library features

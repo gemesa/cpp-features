@@ -104,6 +104,7 @@
 - [`std::optional`](./c++17/std-optional.md)
 - [`std::any`](./c++17/std-any.md)
 - [`std::string_view`](./c++17/std-string_view.md)
+- [`std::invoke`](./c++17/std-invoke.md)
 
 # C++20
 

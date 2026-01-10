@@ -107,6 +107,7 @@
 - [`std::invoke`](./c++17/std-invoke.md)
 - [`std::apply`](./c++17/std-apply.md)
 - [`std::filesystem`](./c++17/std-filesystem.md)
+- [`std::byte`](./c++17/std-byte.md)
 
 # C++20
 

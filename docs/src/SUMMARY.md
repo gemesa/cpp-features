@@ -102,6 +102,7 @@
 
 - [`std::variant`](./c++17/std-variant.md)
 - [`std::optional`](./c++17/std-optional.md)
+- [`std::any`](./c++17/std-any.md)
 - [`std::string_view`](./c++17/std-string_view.md)
 
 # C++20

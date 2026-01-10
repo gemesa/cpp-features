@@ -108,6 +108,7 @@
 - [`std::apply`](./c++17/std-apply.md)
 - [`std::filesystem`](./c++17/std-filesystem.md)
 - [`std::byte`](./c++17/std-byte.md)
+- [Splicing for maps and sets](./c++17/splicing-for-maps-and-sets.md)
 
 # C++20
 

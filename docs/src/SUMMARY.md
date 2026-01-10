@@ -110,6 +110,7 @@
 - [`std::byte`](./c++17/std-byte.md)
 - [Splicing for maps and sets](./c++17/splicing-for-maps-and-sets.md)
 - [Parallel algorithms](./c++17/parallel-algorithms.md)
+- [`std::sample`](./c++17/std-sample.md)
 
 # C++20
 

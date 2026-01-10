@@ -105,6 +105,7 @@
 - [`std::any`](./c++17/std-any.md)
 - [`std::string_view`](./c++17/std-string_view.md)
 - [`std::invoke`](./c++17/std-invoke.md)
+- [`std::apply`](./c++17/std-apply.md)
 
 # C++20
 

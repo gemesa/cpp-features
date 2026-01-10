@@ -111,6 +111,7 @@
 - [Splicing for maps and sets](./c++17/splicing-for-maps-and-sets.md)
 - [Parallel algorithms](./c++17/parallel-algorithms.md)
 - [`std::sample`](./c++17/std-sample.md)
+- [`std::clamp`](./c++17/std-clamp.md)
 
 # C++20
 

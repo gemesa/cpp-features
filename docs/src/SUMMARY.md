@@ -113,6 +113,7 @@
 - [`std::sample`](./c++17/std-sample.md)
 - [`std::clamp`](./c++17/std-clamp.md)
 - [`std::reduce`](./c++17/std-reduce.md)
+- [Prefix sum algorithms](./c++17/prefix-sum-algorithms.md)
 - [`std::gcd` and `std::lcm`](./c++17/std-gcd-std-lcm.md)
 - [`std::not_fn`](./c++17/std-not_fn.md)
 

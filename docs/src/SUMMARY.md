@@ -114,6 +114,7 @@
 - [`std::clamp`](./c++17/std-clamp.md)
 - [`std::reduce`](./c++17/std-reduce.md)
 - [`std::gcd` and `std::lcm`](./c++17/std-gcd-std-lcm.md)
+- [`std::not_fn`](./c++17/std-not_fn.md)
 
 # C++20
 

@@ -113,6 +113,7 @@
 - [`std::sample`](./c++17/std-sample.md)
 - [`std::clamp`](./c++17/std-clamp.md)
 - [`std::reduce`](./c++17/std-reduce.md)
+- [`std::gcd` and `std::lcm`](./c++17/std-gcd-std-lcm.md)
 
 # C++20
 

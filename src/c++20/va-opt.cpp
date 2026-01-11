@@ -1,4 +1,5 @@
 #include <cstdint>
+#include <format>
 #include <iostream>
 
 #define LOG(fmt, ...)                                                          \

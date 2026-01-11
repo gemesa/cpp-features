@@ -133,6 +133,7 @@
 - [`[[likely]]` and `[[unlikely]]` attributes](./c++20/likely-unlikely-attributes.md)
 - [`consteval` (immediate functions)](./c++20/consteval.md)
 - [`constinit`](./c++20/constinit.md)
+- [`using enum`](./c++20/using-enum.md)
 
 # Library features
 

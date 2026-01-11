@@ -112,6 +112,7 @@
 - [Parallel algorithms](./c++17/parallel-algorithms.md)
 - [`std::sample`](./c++17/std-sample.md)
 - [`std::clamp`](./c++17/std-clamp.md)
+- [`std::reduce`](./c++17/std-reduce.md)
 
 # C++20
 

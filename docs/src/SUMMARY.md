@@ -140,6 +140,7 @@
 - [Lambda capture of parameter pack](./c++20/lambda-capture-of-parameter-pack.md)
 - [`char8_t`](./c++20/char8_t.md)
 - [`constinit`](./c++20/constinit.md)
+- [`__VA_OPT__`](./c++20/va-opt.md)
 
 # Library features
 

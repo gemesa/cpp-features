@@ -130,6 +130,7 @@
 - [Designated initializers](./c++20/designated-initializers.md)
 - [Template syntax for lambdas](./c++20/template-syntax-for-lambdas.md)
 - [Range-based for loop with initializer](./c++20/range-based-for-loop-with-initializer.md)
+- [`[[likely]]` and `[[unlikely]]` attributes](./c++20/likely-unlikely-attributes.md)
 - [`consteval` (immediate functions)](./c++20/consteval.md)
 - [`constinit`](./c++20/constinit.md)
 

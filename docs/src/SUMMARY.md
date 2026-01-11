@@ -132,6 +132,7 @@
 - [Range-based for loop with initializer](./c++20/range-based-for-loop-with-initializer.md)
 - [`[[likely]]` and `[[unlikely]]` attributes](./c++20/likely-unlikely-attributes.md)
 - [Deprecate implicit capture of `this`](./c++20/deprecate-implicit-capture-of-this.md)
+- [Class types in non-type template parameters](./c++20/class-types-in-non-type-template-parameters.md)
 - [`explicit(bool)`](./c++20/explicit-bool.md)
 - [`consteval` (immediate functions)](./c++20/consteval.md)
 - [`using enum`](./c++20/using-enum.md)

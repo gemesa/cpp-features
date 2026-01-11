@@ -134,6 +134,7 @@
 - [`consteval` (immediate functions)](./c++20/consteval.md)
 - [`constinit`](./c++20/constinit.md)
 - [`using enum`](./c++20/using-enum.md)
+- [Lambda capture of parameter pack](./c++20/lambda-capture-of-parameter-pack.md)
 
 # Library features
 

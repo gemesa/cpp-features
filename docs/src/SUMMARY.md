@@ -116,6 +116,7 @@
 - [Prefix sum algorithms](./c++17/prefix-sum-algorithms.md)
 - [`std::gcd` and `std::lcm`](./c++17/std-gcd-std-lcm.md)
 - [`std::not_fn`](./c++17/std-not_fn.md)
+- [String conversion to/from numbers](./c++17/string-conversion-to-from-numbers.md)
 
 # C++20
 

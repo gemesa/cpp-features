@@ -1,4 +1,5 @@
 #include <charconv>
+#include <cstdint>
 #include <iostream>
 #include <string_view>
 

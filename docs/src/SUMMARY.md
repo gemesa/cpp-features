@@ -127,6 +127,7 @@
 - [Concepts](./c++20/concepts.md)
 - [`requires` clause](./c++20/requires-clause.md)
 - [Three-way comparison (spaceship operator)](./c++20/three-way-comparison.md)
+- [Designated initializers](./c++20/designated-initializers.md)
 - [`consteval` (immediate functions)](./c++20/consteval.md)
 - [`constinit`](./c++20/constinit.md)
 

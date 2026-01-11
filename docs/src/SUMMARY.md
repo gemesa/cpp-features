@@ -117,6 +117,7 @@
 - [`std::gcd` and `std::lcm`](./c++17/std-gcd-std-lcm.md)
 - [`std::not_fn`](./c++17/std-not_fn.md)
 - [String conversion to/from numbers](./c++17/string-conversion-to-from-numbers.md)
+- [Rounding functions for chrono durations and timepoints](./c++17/rounding-functions-for-chrono-durations-and-timepoints.md)
 
 # C++20
 

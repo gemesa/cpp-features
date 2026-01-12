@@ -18,7 +18,7 @@ void analyzeSegment(uint64_t addr, const char *name) {
                               << ": analyzing " << name << " @ 0x" << std::hex
                               << addr << "\n";
 #else
-  std::lock_guard lock(out_mutex);
+  std::lock_guard lock(cout_mutex);
   std::cout << "Thread " << std::this_thread::get_id() << ": analyzing " << name
             << " @ 0x" << std::hex << addr << "\n";
 #endif

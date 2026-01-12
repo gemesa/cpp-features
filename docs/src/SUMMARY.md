@@ -168,4 +168,6 @@
 
 # Language features
 
+- [`if consteval`](./c++23/if-consteval.md)
+
 # Library features

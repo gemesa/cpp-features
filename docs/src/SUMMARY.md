@@ -148,5 +148,6 @@
 - [`std::format`](./c++20/std-format.md)
 - [Synchronized buffered outputstream](./c++20/synchronised-buffered-outputstream.md)
 - [`std::span`](./c++20/std-span.md)
+- [Bit operations](./c++20/bit-operations.md)
 - [`std::views`](./c++20/std-views.md)
 - [`std::ranges`](./c++20/std-ranges.md)

@@ -8,8 +8,6 @@ Simplified container element removal.
 
 Before C++20: `v.erase(std::remove_if(v.begin(), v.end(), pred), v.end())`. Now just `std::erase_if(v, pred)`.
 
-`std::erase_if` 
-
 ## Code
 
 ```cpp

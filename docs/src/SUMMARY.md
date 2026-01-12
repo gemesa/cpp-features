@@ -156,5 +156,6 @@
 - [`contains` for associative containers](./c++20/contains-for-associative-containers.md)
 - [`std::bit_cast`](./c++20/std-bit_cast.md)
 - [`std::midpoint`](./c++20/std-midpoint.md)
+- [`std::to_array`](./c++20/std-to_array.md)
 - [`std::views`](./c++20/std-views.md)
 - [`std::ranges`](./c++20/std-ranges.md)

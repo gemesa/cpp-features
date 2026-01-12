@@ -150,5 +150,6 @@
 - [`std::span`](./c++20/std-span.md)
 - [Bit operations](./c++20/bit-operations.md)
 - [Math constants](./c++20/math-constants.md)
+- [`std::is_constant_evaluated`](./c++20/std-is_constant_evaluated.md)
 - [`std::views`](./c++20/std-views.md)
 - [`std::ranges`](./c++20/std-ranges.md)

@@ -157,5 +157,6 @@
 - [`std::bit_cast`](./c++20/std-bit_cast.md)
 - [`std::midpoint`](./c++20/std-midpoint.md)
 - [`std::to_array`](./c++20/std-to_array.md)
+- [`std::bind_front`](./c++20/std-bind_front.md)
 - [`std::views`](./c++20/std-views.md)
 - [`std::ranges`](./c++20/std-ranges.md)

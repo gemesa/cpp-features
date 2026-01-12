@@ -160,5 +160,6 @@
 - [`std::bind_front`](./c++20/std-bind_front.md)
 - [`std::erase`/`std::erase_if` (uniform container erasure)](./c++20/std-erase-std-erase_if.md)
 - [Three-way comparison helpers (spaceship operator helpers)](./c++20/three-way-comparison-helpers.md)
+- [`std::lexicographical_compare_three_way`](./c++20/std-lexicographical_compare_three_way.md)
 - [`std::views`](./c++20/std-views.md)
 - [`std::ranges`](./c++20/std-ranges.md)

@@ -169,6 +169,7 @@
 # Language features
 
 - [`if consteval`](./c++23/if-consteval.md)
+- [Deducing `this`](./c++23/deducing-this.md)
 
 # Library features
 

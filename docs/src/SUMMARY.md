@@ -155,5 +155,6 @@
 - [`starts_with` and `ends_with` on strings](./c++20/starts_with-ends_with.md)
 - [`contains` for associative containers](./c++20/contains-for-associative-containers.md)
 - [`std::bit_cast`](./c++20/std-bit_cast.md)
+- [`std::midpoint`](./c++20/std-midpoint.md)
 - [`std::views`](./c++20/std-views.md)
 - [`std::ranges`](./c++20/std-ranges.md)

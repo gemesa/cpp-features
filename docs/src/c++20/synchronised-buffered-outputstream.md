@@ -6,7 +6,7 @@ Thread-safe logging without mixed output.
 
 ## Explanation
 
-`std::osyncstream` buffers output and flushes atomically. Without it, concurrent `cout` writes mix randomly.
+`std::osyncstream` buffers output and flushes atomically. Without it, concurrent `cout` writes mix randomly. Note that it is [not supported by Apple](https://en.cppreference.com/w/cpp/compiler_support/20) currently (look for "Synchronized buffered").
 
 ## Code
 

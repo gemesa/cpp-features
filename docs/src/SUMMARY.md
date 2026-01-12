@@ -146,6 +146,7 @@
 
 - [Concepts library](./c++20/concepts-library.md)
 - [`std::format`](./c++20/std-format.md)
+- [Synchronized buffered outputstream](./c++20/synchronised-buffered-outputstream.md)
 - [`std::span`](./c++20/std-span.md)
 - [`std::views`](./c++20/std-views.md)
 - [`std::ranges`](./c++20/std-ranges.md)

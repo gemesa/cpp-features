@@ -145,7 +145,7 @@
 # Library features
 
 - [Concepts library](./c++20/concepts-library.md)
-- [`std::span`](./c++20/std-span.md)
 - [`std::format`](./c++20/std-format.md)
+- [`std::span`](./c++20/std-span.md)
 - [`std::views`](./c++20/std-views.md)
 - [`std::ranges`](./c++20/std-ranges.md)

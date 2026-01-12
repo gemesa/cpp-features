@@ -3,14 +3,13 @@
 #include <thread>
 #include <vector>
 
-#if __has_include(<syncstream>)
-#include <syncstream>
-#define HAS_SYNCSTREAM 1
-#else
-// Fallback for macOS.
+#if defined(__APPLE__)
 #include <mutex>
 #define HAS_SYNCSTREAM 0
 std::mutex cout_mutex;
+#else
+#include <syncstream>
+#define HAS_SYNCSTREAM 1
 #endif
 
 void analyzeSegment(uint64_t addr, const char *name) {

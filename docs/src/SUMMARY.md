@@ -171,3 +171,5 @@
 - [`if consteval`](./c++23/if-consteval.md)
 
 # Library features
+
+- [`std::print`/`std::println`](./c++23/std-print-std-println.md)

@@ -186,3 +186,4 @@
 - [`std::print`/`std::println`](./c++23/std-print-std-println.md)
 - [`std::expected`](./c++23/std-expected.md)
 - [`std::flat_map`](./c++23/std-flat_map.md)
+- [`std::mdspan`](./c++23/std-mdspan.md)

@@ -1,3 +1,6 @@
+// std::mdspan is not fully implemented everywhere yet.
+// https://en.cppreference.com/w/cpp/compiler_support/23.html
+#ifdef __APPLE__
 #include <cstdint>
 #include <mdspan>
 #include <print>
@@ -22,3 +25,6 @@ int main() {
 
   return 0;
 }
+#else
+int main() { return 0; }
+#endif

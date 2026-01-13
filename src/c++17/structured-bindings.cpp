@@ -8,7 +8,9 @@ struct Symbol {
   const char *name;
 };
 
-Symbol findSymbol(const char *name) { return {true, 0x10001000, "_main"}; }
+Symbol findSymbol([[maybe_unused]] const char *name) {
+  return {true, 0x10001000, "_main"};
+}
 
 int main() {
   auto [found, addr, name] = findSymbol("_main");

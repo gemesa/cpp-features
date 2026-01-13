@@ -21,7 +21,8 @@ struct Instruction {
 };
 struct BranchInstr : Instruction {};
 
-template <std::derived_from<Instruction> T> void analyze(const T &instr) {
+template <std::derived_from<Instruction> T>
+void analyze([[maybe_unused]] const T &instr) {
   std::cout << "Analyzing instruction.\n";
 }
 

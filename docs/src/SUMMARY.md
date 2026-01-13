@@ -179,6 +179,7 @@
 - [Lambda without parentheses](./c++23/lambda-without-parentheses.md)
 - [`#warning` directive](./c++23/warning-directive.md)
 - [`static_assert(false)` in templates](./c++23/static_assert-false-in-templates.md)
+- [`import std;`](./c++23/import-std.md)
 
 # Library features
 

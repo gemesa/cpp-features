@@ -183,3 +183,4 @@
 # Library features
 
 - [`std::print`/`std::println`](./c++23/std-print-std-println.md)
+- [`std::expected`](./c++23/std-expected.md)

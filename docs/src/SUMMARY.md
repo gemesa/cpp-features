@@ -190,3 +190,4 @@
 - [`std::ranges::contains`](./c++23/std-ranges-contains.md)
 - [`std::ranges::fold_left`](./c++23/std-ranges-fold_left.md)
 - [`std::byteswap`](./c++23/std-byteswap.md)
+- [`std::to_underlying`](./c++23/std-to_underlying.md)

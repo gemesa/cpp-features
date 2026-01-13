@@ -177,6 +177,7 @@
 - [`static operator()`](./c++23/static-call-operator.md)
 - [`auto(x)` (decay copy)](./c++23/auto-x-decay-copy.md)
 - [Lambda without parentheses](./c++23/lambda-without-parentheses.md)
+- [`#warning` directive](./c++23/warning-directive.md)
 
 # Library features
 

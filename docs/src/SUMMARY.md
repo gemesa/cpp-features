@@ -173,6 +173,7 @@
 - [Multidimensional [] operator](./c++23/multidimensional-subscript-operator.md)
 - [`[[assume]]` attribute](./c++23/assume-attribute.md)
 - [`size_t` literal suffix](./c++23/size_t-literal-suffix.md)
+- [`#elifdef`/`#elifndef`](./c++23/elifdef-elifndef.md)
 
 # Library features
 

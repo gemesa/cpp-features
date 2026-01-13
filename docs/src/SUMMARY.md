@@ -176,6 +176,7 @@
 - [`#elifdef`/`#elifndef`](./c++23/elifdef-elifndef.md)
 - [`static operator()`](./c++23/static-call-operator.md)
 - [`auto(x)` (decay copy)](./c++23/auto-x-decay-copy.md)
+- [Lambda without parentheses](./c++23/lambda-without-parentheses.md)
 
 # Library features
 

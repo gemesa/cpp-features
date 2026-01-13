@@ -178,6 +178,7 @@
 - [`auto(x)` (decay copy)](./c++23/auto-x-decay-copy.md)
 - [Lambda without parentheses](./c++23/lambda-without-parentheses.md)
 - [`#warning` directive](./c++23/warning-directive.md)
+- [`static_assert(false)` in templates](./c++23/static_assert-false-in-templates.md)
 
 # Library features
 

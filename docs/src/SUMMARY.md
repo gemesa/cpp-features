@@ -171,6 +171,7 @@
 - [`if consteval`](./c++23/if-consteval.md)
 - [Deducing `this`](./c++23/deducing-this.md)
 - [Multidimensional [] operator](./c++23/multidimensional-subscript-operator.md)
+- [`[[assume]]` attribute](./c++23/assume-attribute.md)
 
 # Library features
 

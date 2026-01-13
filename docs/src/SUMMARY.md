@@ -187,3 +187,4 @@
 - [`std::expected`](./c++23/std-expected.md)
 - [`std::flat_map`](./c++23/std-flat_map.md)
 - [`std::mdspan`](./c++23/std-mdspan.md)
+- [`std::ranges::contains`](./c++23/std-ranges-contains.md)

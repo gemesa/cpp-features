@@ -2,6 +2,7 @@
 #include <cstring>
 #include <expected>
 #include <print>
+#include <utility>
 
 enum class ParseError {
   InvalidMagic,

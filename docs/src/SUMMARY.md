@@ -175,6 +175,7 @@
 - [`size_t` literal suffix](./c++23/size_t-literal-suffix.md)
 - [`#elifdef`/`#elifndef`](./c++23/elifdef-elifndef.md)
 - [`static operator()`](./c++23/static-call-operator.md)
+- [`auto(x)` (decay copy)](./c++23/auto-x-decay-copy.md)
 
 # Library features
 

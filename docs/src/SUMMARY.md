@@ -196,3 +196,4 @@
 - [`std::stacktrace`](./c++23/std-stacktrace.md)
 - [`std::views::zip`](./c++23/std-views-zip.md)
 - [`std::views::chunk`](./c++23/std-views-chunk.md)
+- [`std::views::enumerate`](./c++23/std-views-enumerate.md)

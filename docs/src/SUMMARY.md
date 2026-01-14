@@ -200,3 +200,4 @@
 - [`std::move_only_function`](./c++23/std-move_only_function.md)
 - [`std::string::contains`](./c++23/std-string-contains.md)
 - [`constexpr std::unique_ptr`](./c++23/constexpr-std-unique_ptr.md)
+- [Formatting ranges and tuples](./c++23/formatting-ranges-and-tuples.md)

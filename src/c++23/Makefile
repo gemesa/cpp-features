@@ -1,5 +1,6 @@
 CXX := clang++
 CXXFLAGS := -std=c++23 -Wall -Wextra -Werror -I.
+LDLIBS :=
 BUILD_DIR := build
 
 SRCS := $(wildcard *.cpp)
@@ -9,8 +10,10 @@ BINS := $(addprefix $(BUILD_DIR)/,$(SRCS:.cpp=))
 
 all: $(BINS)
 
+$(BUILD_DIR)/std-stacktrace: LDLIBS += -lstdc++exp
+
 $(BUILD_DIR)/%: %.cpp | $(BUILD_DIR)
-	$(CXX) $(CXXFLAGS) $< -o $@
+	$(CXX) $(CXXFLAGS) $< -o $@ $(LDLIBS)
 
 $(BUILD_DIR):
 	mkdir -p $(BUILD_DIR)

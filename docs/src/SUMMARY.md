@@ -193,3 +193,4 @@
 - [`std::to_underlying`](./c++23/std-to_underlying.md)
 - [`std::unreachable`](./c++23/std-unreachable.md)
 - [Monadic operations for `std::optional`](./c++23/monadic-operations.md)
+- [`std::stacktrace`](./c++23/std-stacktrace.md)

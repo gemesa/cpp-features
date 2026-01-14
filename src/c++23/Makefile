@@ -17,8 +17,6 @@ BINS := $(addprefix $(BUILD_DIR)/,$(SRCS:.cpp=))
 
 all: $(BINS)
 
-$(BUILD_DIR)/std-stacktrace: LDLIBS += -lstdc++exp
-
 $(BUILD_DIR)/%: %.cpp | $(BUILD_DIR)
 	$(CXX) $(CXXFLAGS) $< -o $@ $(LDLIBS)
 

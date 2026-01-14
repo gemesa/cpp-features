@@ -1,3 +1,6 @@
+// std::views::chunk is not fully implemented everywhere yet.
+// https://en.cppreference.com/w/cpp/compiler_support/23.html
+#if defined(__linux__)
 #include <cstdint>
 #include <print>
 #include <ranges>
@@ -16,3 +19,6 @@ int main() {
 
   return 0;
 }
+#else
+int main() { return 0; }
+#endif

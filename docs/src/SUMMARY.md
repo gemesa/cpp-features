@@ -194,3 +194,4 @@
 - [`std::unreachable`](./c++23/std-unreachable.md)
 - [Monadic operations for `std::optional`](./c++23/monadic-operations.md)
 - [`std::stacktrace`](./c++23/std-stacktrace.md)
+- [`std::views::zip`](./c++23/std-views-zip.md)

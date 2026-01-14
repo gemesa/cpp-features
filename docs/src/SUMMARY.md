@@ -195,3 +195,4 @@
 - [Monadic operations for `std::optional`](./c++23/monadic-operations.md)
 - [`std::stacktrace`](./c++23/std-stacktrace.md)
 - [`std::views::zip`](./c++23/std-views-zip.md)
+- [`std::views::chunk`](./c++23/std-views-chunk.md)

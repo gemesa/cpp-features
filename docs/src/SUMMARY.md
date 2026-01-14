@@ -198,3 +198,4 @@
 - [`std::views::chunk`](./c++23/std-views-chunk.md)
 - [`std::views::enumerate`](./c++23/std-views-enumerate.md)
 - [`std::move_only_function`](./c++23/std-move_only_function.md)
+- [`std::string::contains`](./c++23/std-string-contains.md)

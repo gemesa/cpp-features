@@ -1,3 +1,6 @@
+// std::move_only_function is not fully implemented everywhere yet.
+// https://en.cppreference.com/w/cpp/compiler_support/23.html
+#if defined(__linux__)
 #include <functional>
 #include <memory>
 #include <print>
@@ -13,3 +16,6 @@ int main() {
 
   return 0;
 }
+#else
+int main() { return 0; }
+#endif

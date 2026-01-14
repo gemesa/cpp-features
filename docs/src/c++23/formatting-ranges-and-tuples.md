@@ -20,5 +20,6 @@ Print containers directly with `std::print`/`std::format`.
 
 ```
 $ ./src/c++23/build/formatting-ranges-and-tuples
-
+Addresses: [0x1000, 0x1100, 0x1200]
+Symbols: {"_helper": 4352, "_main": 4096}
 ```

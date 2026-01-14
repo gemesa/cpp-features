@@ -4,6 +4,13 @@ LDLIBS :=
 BUILD_DIR := build
 
 SRCS := $(wildcard *.cpp)
+
+ifeq ($(shell uname),Darwin)
+    SRCS := $(filter-out std-stacktrace.cpp,$(SRCS))
+else
+    $(BUILD_DIR)/std-stacktrace: LDLIBS += -lstdc++exp
+endif
+
 BINS := $(addprefix $(BUILD_DIR)/,$(SRCS:.cpp=))
 
 .PHONY: all clean run format format-check

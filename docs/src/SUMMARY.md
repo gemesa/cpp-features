@@ -199,3 +199,4 @@
 - [`std::views::enumerate`](./c++23/std-views-enumerate.md)
 - [`std::move_only_function`](./c++23/std-move_only_function.md)
 - [`std::string::contains`](./c++23/std-string-contains.md)
+- [`constexpr std::unique_ptr`](./c++23/constexpr-std-unique_ptr.md)

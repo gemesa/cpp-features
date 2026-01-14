@@ -192,3 +192,4 @@
 - [`std::byteswap`](./c++23/std-byteswap.md)
 - [`std::to_underlying`](./c++23/std-to_underlying.md)
 - [`std::unreachable`](./c++23/std-unreachable.md)
+- [Monadic operations for `std::optional`](./c++23/monadic-operations.md)

@@ -197,3 +197,4 @@
 - [`std::views::zip`](./c++23/std-views-zip.md)
 - [`std::views::chunk`](./c++23/std-views-chunk.md)
 - [`std::views::enumerate`](./c++23/std-views-enumerate.md)
+- [`std::move_only_function`](./c++23/std-move_only_function.md)

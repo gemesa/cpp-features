@@ -3,3 +3,7 @@ authors = ["Andras Gemes"]
 language = "en"
 src = "src"
 title = "Modern C++ features"
+
+[output.html.fold]
+enable = true
+level = 0

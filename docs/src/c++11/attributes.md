@@ -6,7 +6,7 @@ Document that a function never returns (might help compiler optimization).
 
 ## Explanation
 
-`[[noreturn]]` tells the compiler a function never returns normally (it throws, calls `abort`, loops forever etc.). This mainly serves as documentation and an optimization hint. In practice, modern compilers are already very smart and adding `[[noreturn]]` does not help them.
+`[[noreturn]]` tells the compiler a function never returns normally (it throws, calls `abort`, loops forever etc.). This mainly serves as documentation and an optimization hint. In practice, modern compilers are already very smart and adding `[[noreturn]]` might not help them.
 
 ## Code
 

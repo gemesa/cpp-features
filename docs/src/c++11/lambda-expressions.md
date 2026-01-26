@@ -6,7 +6,7 @@ Custom predicates for filtering/searching binary data.
 
 ## Explanation
 
-Lambdas are inline function objects. They keep related code together, can cpature variables (`[]` captures nothing, `[=]` copies locals, `[&]` references locals) and avoid polluting the namespace.
+Lambdas are inline function objects. They keep related code together, can capture variables (`[]` captures nothing, `[=]` copies locals, `[&]` references locals) and avoid polluting the namespace.
 
 ## Code
 

@@ -6,7 +6,7 @@ Define known suspicious API patterns concisely.
 
 ## Explanation
 
-Initializer lists let us pass `{a, b, c}` syntax to functions. They do not allocate heap memory (unlike e.g. `std::vector`). Use them for read-only literal data.
+Initializer lists let us pass `{a, b, c}` syntax to functions. They do not allocate heap memory (unlike e.g. `std::vector`). Use them for read-only data.
 
 ## Code
 

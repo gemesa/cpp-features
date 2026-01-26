@@ -8,7 +8,7 @@ struct SignatureValidator : Validator {
   bool validate() override final { return true; }
 };
 
-struct ExtendedBalidator : SignatureValidator {
+struct ExtendedValidator : SignatureValidator {
   // cannot override 'final' function "SignatureValidator::validate"
   // bool validate() override {}
 };

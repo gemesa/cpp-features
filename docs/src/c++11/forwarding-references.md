@@ -6,7 +6,7 @@ Generic wrapper that logs function calls while preserving argument types.
 
 ## Explanation
 
-`T&&` where `T` is a template is a forwarding reference (it binds to anything). Combined with `std::forwards`, it preserves whether the original argument was an lvalue or rvalue.
+`T&&` where `T` is a template is a forwarding reference (it binds to anything). Combined with `std::forward`, it preserves whether the original argument was an lvalue or rvalue.
 
 ## Code
 

@@ -1,4 +1,5 @@
 #include <array>
+#include <cstdint>
 #include <memory>
 
 constexpr bool isValidMagic(uint32_t magic) {

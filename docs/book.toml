@@ -7,3 +7,6 @@ title = "Modern C++ features"
 [output.html.fold]
 enable = true
 level = 0
+
+[output.html]
+additional-js = ["external-links.js"]

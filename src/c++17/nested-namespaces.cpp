@@ -9,7 +9,7 @@ constexpr uint32_t NOP = 0xD503201F;
 } // namespace re::macho::arm64
 
 // Before C++17:
-// namespace re { namespace { macho { namespace arm64 {...}}}}
+// namespace re { namespace macho { namespace arm64 {...}}}
 
 int main() {
   std::cout << "NOP: 0x" << std::hex << re::macho::arm64::NOP << "\n";
